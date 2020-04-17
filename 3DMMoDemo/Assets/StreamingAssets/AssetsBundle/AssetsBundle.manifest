@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 21590581
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: npcbundle
+      Dependencies: {}

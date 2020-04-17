@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 534682971
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebb3df72709580b4bdde40dc2fda91ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c74e97341382ec956b3fc66787fb8b45
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ab646b17dde5ea4e8f05b0c92fa73df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b926b1339e547cb4c9c1031a647481f4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9d0b5f3bbe925a408bd595c79d0bf63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1fdca5042b1d12a4890ec1bd4f04290d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aae5d2456b649b41abf3c7d1e2ef280, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebbf080627224a44786e958729eb7601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13e6525715fcfe34eb1fa8e16533b3f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1e6fae88582e8c4d97701b7fad8372c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02842fa4878db54f9587ff4de7d9f2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0c51bb0b6e93049af5e88f93826e3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a16b66e49bce0445a8967b99761cc9b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 140c00ae7ee761142a4e7487db0c75dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1b3dc54f924693f41b5cbecb267e647a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b3267bfc763c3c468017ad5c89757ac, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/BossHUD.prefab
+- Assets/Resources/Prefabs/Boss.prefab
+- Assets/Resources/Prefabs/Player.prefab
+- Assets/Resources/Prefabs/bossitem.prefab
+- Assets/Resources/Prefabs/PlayerHUD.prefab
+Dependencies: []
